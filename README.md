@@ -5,22 +5,22 @@ It allows user to register/login and once they register/login, they can access d
 
 # Table of Contents
 
-• Installation
-• Usage
-• API Endpoints
-• Front End
-• Validation
-• Contributing
-• License
+• Installation                                                                                                                                         
+• Usage                                                                                                                                                 
+• API Endpoints                                                                                                                                         
+• Front End                                                                                                                                             
+• Validation                                                                                                                                           
+• Contributing                                                                                                                                         
+• License                                                                                                                                               
 
 # Installation
 
 To get started with this project, follow the steps below:
 
-**1.** Clone the repository:
-git clone https://github.com/DawoodShah009/Node-Store-API.git
+**1.** Clone the repository:                                                                                                                           
+git clone https://github.com/DawoodShah009/JWT-Basics.git                                                                                               
 
-**2.** Install project dependencies:
+**2.** Install project dependencies:                                                                                                                   
 npm install
 
 ## Available Scripts
